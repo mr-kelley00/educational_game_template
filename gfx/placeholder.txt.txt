@@ -1,0 +1,1 @@
+This file is meant to ensure that folders will be synced properly to GitHub. It is safe to delete this after cloning. 
